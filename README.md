@@ -1,1 +1,1 @@
- hybrid framework version 1.0
+ hybrid framework version 2.0
